@@ -1,4 +1,4 @@
-package MySimpleGUI;
+
 
 import javax.swing.*;
 
