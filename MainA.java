@@ -1,4 +1,3 @@
-package MySimpleGUI;
 
 public class MainA {
 
